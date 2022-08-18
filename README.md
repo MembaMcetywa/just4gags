@@ -6,7 +6,7 @@ Check out the [live demo here](https://cool-voice.herokuapp.com/)
 
 **For it to work, please make sure to enable the microphone access and allow pop-ups.**
 
-When you mention the keywords such as "code", "developer", "get hired", "get started", the voice assistant will open a new page related to the keyword.
+This will hopefully be a very funny website??
 
 If you go to `index.js`, you will see an array of hardcoded keywords.
 
